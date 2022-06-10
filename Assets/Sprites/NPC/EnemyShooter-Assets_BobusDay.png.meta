@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: aa1fdb3260299804da1bdad3e7ba38ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8064887378388898460
+    second: EnemyShooter-Assets_BobusDay_0
+  - first:
+      213: -3688591255076949101
+    second: EnemyShooter-Assets_BobusDay_1
+  - first:
+      213: -2909170110633635589
+    second: EnemyShooter-Assets_BobusDay_2
+  - first:
+      213: -6282587466530969580
+    second: EnemyShooter-Assets_BobusDay_3
+  - first:
+      213: -3733908955034596593
+    second: EnemyShooter-Assets_BobusDay_4
+  - first:
+      213: -653340472971713564
+    second: EnemyShooter-Assets_BobusDay_5
+  - first:
+      213: 5540015144025168595
+    second: EnemyShooter-Assets_BobusDay_6
+  - first:
+      213: 1116424547464980996
+    second: EnemyShooter-Assets_BobusDay_7
+  - first:
+      213: -3185027529924727926
+    second: EnemyShooter-Assets_BobusDay_8
+  - first:
+      213: -6114441841651689013
+    second: EnemyShooter-Assets_BobusDay_9
+  - first:
+      213: -5305401381888233898
+    second: EnemyShooter-Assets_BobusDay_10
+  - first:
+      213: -8530985241568195253
+    second: EnemyShooter-Assets_BobusDay_11
+  - first:
+      213: -7506990489561808314
+    second: EnemyShooter-Assets_BobusDay_12
+  - first:
+      213: -7285493043544940573
+    second: EnemyShooter-Assets_BobusDay_13
+  - first:
+      213: -5753677174939833997
+    second: EnemyShooter-Assets_BobusDay_14
+  - first:
+      213: -1891246708890795117
+    second: EnemyShooter-Assets_BobusDay_15
+  - first:
+      213: 1473168951276225344
+    second: EnemyShooter-Assets_BobusDay_16
+  - first:
+      213: 6527738266866618598
+    second: EnemyShooter-Assets_BobusDay_17
+  - first:
+      213: -1813506018194786488
+    second: EnemyShooter-Assets_BobusDay_18
+  - first:
+      213: 1445054226844820394
+    second: EnemyShooter-Assets_BobusDay_19
+  - first:
+      213: 912709963689837679
+    second: EnemyShooter-Assets_BobusDay_20
+  - first:
+      213: 2850221459047450593
+    second: EnemyShooter-Assets_BobusDay_21
+  - first:
+      213: -3797228893963277553
+    second: EnemyShooter-Assets_BobusDay_22
+  - first:
+      213: 1514790227092645423
+    second: EnemyShooter-Assets_BobusDay_23
+  - first:
+      213: 82755497734403431
+    second: EnemyShooter-Assets_BobusDay_24
+  - first:
+      213: -694254550620455652
+    second: EnemyShooter-Assets_BobusDay_25
+  - first:
+      213: -8959825195582105769
+    second: EnemyShooter-Assets_BobusDay_26
+  - first:
+      213: 8318915590392414558
+    second: EnemyShooter-Assets_BobusDay_27
+  - first:
+      213: -4569666598737076185
+    second: EnemyShooter-Assets_BobusDay_28
+  - first:
+      213: 7645405454848549587
+    second: EnemyShooter-Assets_BobusDay_29
+  - first:
+      213: -6564941398061520405
+    second: EnemyShooter-Assets_BobusDay_30
+  - first:
+      213: 1826036486606209632
+    second: EnemyShooter-Assets_BobusDay_31
+  - first:
+      213: -5596678370589419589
+    second: EnemyShooter-Assets_BobusDay_32
+  - first:
+      213: 8645046352056424569
+    second: EnemyShooter-Assets_BobusDay_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 168
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d2991b8a3c31090800000000000000
+      internalID: -8064887378388898460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 168
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393b687ebcd7fccc0800000000000000
+      internalID: -3688591255076949101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 168
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf09f74a23d80a7d0800000000000000
+      internalID: -2909170110633635589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 168
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418a91b5cf3cfc8a0800000000000000
+      internalID: -6282587466530969580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 168
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b4387a69d7e2cc0800000000000000
+      internalID: -3733908955034596593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 134
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3a2272d4edee6f0800000000000000
+      internalID: -653340472971713564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 136
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da97e5db6612ec40800000000000000
+      internalID: 5540015144025168595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 136
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a2d2af5365e7f00800000000000000
+      internalID: 1116424547464980996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 136
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b2ff626528cc3d0800000000000000
+      internalID: -3185027529924727926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 136
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9d09c6a83252ba0800000000000000
+      internalID: -6114441841651689013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e6fa96d8d6f56b0800000000000000
+      internalID: -5305401381888233898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 102
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d4a343f1adb9980800000000000000
+      internalID: -8530985241568195253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 102
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642ce696cefc1d790800000000000000
+      internalID: -7506990489561808314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 104
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef9ce55daab4ea90800000000000000
+      internalID: -7285493043544940573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 104
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379207bf715d620b0800000000000000
+      internalID: -5753677174939833997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 104
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39300f57321f0c5e0800000000000000
+      internalID: -1891246708890795117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 72
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04344f22b5fb17410800000000000000
+      internalID: 1473168951276225344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 72
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e01f474e5f279a50800000000000000
+      internalID: 6527738266866618598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 72
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847777382e125d6e0800000000000000
+      internalID: -1813506018194786488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 72
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa32340c92ddd0410800000000000000
+      internalID: 1445054226844820394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 72
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6441b050e89aac00800000000000000
+      internalID: 912709963689837679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 72
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e708bdd0550e8720800000000000000
+      internalID: 2850221459047450593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 40
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b287480788d4bc0800000000000000
+      internalID: -3797228893963277553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 40
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2627139fad950510800000000000000
+      internalID: 1514790227092645423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 40
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7657badcfa1062100800000000000000
+      internalID: 82755497734403431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 40
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db19e1a238d56f0800000000000000
+      internalID: -694254550620455652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 40
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757dbbfa47e48a380800000000000000
+      internalID: -8959825195582105769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 40
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e518cc967a9b27370800000000000000
+      internalID: 8318915590392414558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7202f4880784590c0800000000000000
+      internalID: -4569666598737076185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 8
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2e41c01cfe91a60800000000000000
+      internalID: 7645405454848549587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 8
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9694db494a4e4a0800000000000000
+      internalID: -6564941398061520405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062c0138282675910800000000000000
+      internalID: 1826036486606209632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 8
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d7e6acaa9452b0800000000000000
+      internalID: -5596678370589419589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShooter-Assets_BobusDay_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 8
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9781c119adf59f770800000000000000
+      internalID: 8645046352056424569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

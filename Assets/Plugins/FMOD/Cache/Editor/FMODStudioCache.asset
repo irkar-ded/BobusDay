@@ -1,0 +1,634 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8967196122239834467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Weapon/Jetpack
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Weapon/Jetpack
+  Guid:
+    Data1: 439086523
+    Data2: 1329920762
+    Data3: -1225981770
+    Data4: -2050678856
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 30
+  Length: 7431
+--- !u!114 &-8593112971283390975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: fmod_new/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637895887965418924
+  FileSizes:
+  - Name: Desktop
+    Value: 1792
+  Exists: 1
+--- !u!114 &-7735777838201990717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/Amb_outside
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/Amb_outside
+  Guid:
+    Data1: 1297092870
+    Data2: 1215814669
+    Data3: 1460020371
+    Data4: 830606710
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 16347
+--- !u!114 &-5560661466261323524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Bank A.bank
+  m_EditorClassIdentifier: 
+  Path: fmod_new/Build/Desktop/Bank A.bank
+  Name: Bank A
+  StudioPath: bank:/Bank A
+  lastModified: 637898846067278259
+  FileSizes:
+  - Name: Desktop
+    Value: 4065760
+  Exists: 1
+--- !u!114 &-4455026297171042249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Locomotion/jumpAir_pc
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Locomotion/jumpAir_pc
+  Guid:
+    Data1: 1956760436
+    Data2: 1150166285
+    Data3: -1908193870
+    Data4: -1366012943
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 30
+  Length: 2000
+--- !u!114 &-3372195225505000938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Health_Boss
+  m_EditorClassIdentifier: 
+  Name: Health_Boss
+  StudioPath: parameter:/Health_Boss
+  Min: 0
+  Max: 1000
+  Default: 1000
+  ID:
+    data1: 837352298
+    data2: 2001589010
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-2253467904182104285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Locomotion/jump_pc
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Locomotion/jump_pc
+  Guid:
+    Data1: -526448913
+    Data2: 1199873748
+    Data3: -1159643262
+    Data4: -1827339770
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 30
+  Length: 2000
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -8593112971283390975}
+  - {fileID: -5560661466261323524}
+  - {fileID: 3242846257424507729}
+  EditorEvents:
+  - {fileID: -7735777838201990717}
+  - {fileID: 6572241326570395631}
+  - {fileID: 497676066088385649}
+  - {fileID: 9121426870871677641}
+  - {fileID: 8145518544932956427}
+  - {fileID: 5380849959622871618}
+  - {fileID: 7826245598325483397}
+  - {fileID: 3032646067590902166}
+  - {fileID: 8598927715918410669}
+  - {fileID: -4455026297171042249}
+  - {fileID: 472935659205025653}
+  - {fileID: 4730274023615703107}
+  - {fileID: 4057451052325170149}
+  - {fileID: 2121375440010221068}
+  - {fileID: -8967196122239834467}
+  - {fileID: -2253467904182104285}
+  EditorParameters:
+  - {fileID: 2414445224280862965}
+  - {fileID: -3372195225505000938}
+  MasterBanks:
+  - {fileID: 3242846257424507729}
+  StringsBanks:
+  - {fileID: -8593112971283390975}
+  cacheTime: 637898846067278259
+  cacheVersion: 10
+--- !u!114 &472935659205025653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Weapon/Hook-kat
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Weapon/Hook-kat
+  Guid:
+    Data1: 906044285
+    Data2: 1230773984
+    Data3: -1149341800
+    Data4: -1509801086
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 2
+  MaxDistance: 80
+  Length: 2040
+--- !u!114 &497676066088385649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Boss_01/Laser_Boss
+  m_EditorClassIdentifier: 
+  Path: event:/Boss_01/Laser_Boss
+  Guid:
+    Data1: 736791083
+    Data2: 1130225177
+    Data3: -1681427324
+    Data4: -1457372990
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 2
+  MaxDistance: 80
+  Length: 4125
+--- !u!114 &2121375440010221068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Weapon/ShotGun
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Weapon/ShotGun
+  Guid:
+    Data1: -541480527
+    Data2: 1131309497
+    Data3: -1302548308
+    Data4: 1528792119
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 2
+  MaxDistance: 80
+  Length: 2007
+--- !u!114 &2414445224280862965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/State_music1
+  m_EditorClassIdentifier: 
+  Name: State_music1
+  StudioPath: parameter:/State_music1
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 1125786137
+    data2: 300356850
+  Type: 1
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &3032646067590902166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Locomotion/land_pc
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Locomotion/land_pc
+  Guid:
+    Data1: -1583348370
+    Data2: 1237352299
+    Data3: 1186503045
+    Data4: -1736156807
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 30
+  Length: 2000
+--- !u!114 &3242846257424507729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: fmod_new/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637895887965418924
+  FileSizes:
+  - Name: Desktop
+    Value: 1692
+  Exists: 1
+--- !u!114 &4057451052325170149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Locomotion/run_pc
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Locomotion/run_pc
+  Guid:
+    Data1: -127772755
+    Data2: 1151652489
+    Data3: 1718089630
+    Data4: -611650836
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 30
+  Length: 2000
+--- !u!114 &4730274023615703107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Boss/Music_Boss
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Boss/Music_Boss
+  Guid:
+    Data1: -662912625
+    Data2: 1130100813
+    Data3: -1841602157
+    Data4: -1949400969
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 5946566847768141467}
+  - {fileID: 5130465943130962176}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 66807
+--- !u!114 &5130465943130962176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Music_Boss/Health_Boss
+  m_EditorClassIdentifier: 
+  Name: Health_Boss
+  StudioPath: 
+  Min: 0
+  Max: 1000
+  Default: 1000
+  ID:
+    data1: 837352298
+    data2: 2001589010
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &5380849959622871618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Boss_01/Boss_up_rock
+  m_EditorClassIdentifier: 
+  Path: event:/Boss_01/Boss_up_rock
+  Guid:
+    Data1: 661966134
+    Data2: 1150758358
+    Data3: -1357345395
+    Data4: -643043005
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 29873
+--- !u!114 &5946566847768141467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Music_Boss/State_music1
+  m_EditorClassIdentifier: 
+  Name: State_music1
+  StudioPath: 
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 1125786137
+    data2: 300356850
+  Type: 1
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &6572241326570395631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Weapon/JatPackStop
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Weapon/JatPackStop
+  Guid:
+    Data1: -1934399190
+    Data2: 1261529425
+    Data3: -1394664313
+    Data4: 2002889567
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 30
+  Length: 257
+--- !u!114 &7826245598325483397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Enemy/Weapons/ShotGunNPC
+  m_EditorClassIdentifier: 
+  Path: event:/Enemy/Weapons/ShotGunNPC
+  Guid:
+    Data1: -1570264753
+    Data2: 1214437912
+    Data3: -1650432068
+    Data4: -80015718
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 70.5
+  MaxDistance: 100
+  Length: 2003
+--- !u!114 &8145518544932956427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Weapon/GlideAir
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Weapon/GlideAir
+  Guid:
+    Data1: -1935788491
+    Data2: 1135251290
+    Data3: -97564486
+    Data4: 1277749288
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 30
+  Length: 5681
+--- !u!114 &8598927715918410669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Locomotion/walk_pc
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Locomotion/walk_pc
+  Guid:
+    Data1: -209109903
+    Data2: 1281937694
+    Data3: -1989946702
+    Data4: -1137846699
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 30
+  Length: 2000
+--- !u!114 &9121426870871677641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/Amb_inside
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/Amb_inside
+  Guid:
+    Data1: 749615152
+    Data2: 1228595281
+    Data3: -2128311130
+    Data4: -1116017567
+  Banks:
+  - {fileID: -5560661466261323524}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12673

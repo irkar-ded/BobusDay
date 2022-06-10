@@ -1,0 +1,1908 @@
+fileFormatVersion: 2
+guid: 65f262a0ba20db44d80ae87de465bab9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8790705730967003205
+    second: Cars_BobusDay-Assets__0
+  - first:
+      213: 1156824032424236181
+    second: Cars_BobusDay-Assets__1
+  - first:
+      213: -1667241304720108436
+    second: Cars_BobusDay-Assets__2
+  - first:
+      213: 5011282911149570085
+    second: Cars_BobusDay-Assets__3
+  - first:
+      213: 7032673164551093660
+    second: Cars_BobusDay-Assets__4
+  - first:
+      213: -5062618734264198069
+    second: Cars_BobusDay-Assets__5
+  - first:
+      213: -6205973154226379340
+    second: Cars_BobusDay-Assets__6
+  - first:
+      213: -1784841019769154758
+    second: Cars_BobusDay-Assets__7
+  - first:
+      213: 3134976229338046935
+    second: Cars_BobusDay-Assets__8
+  - first:
+      213: 676590545628037876
+    second: Cars_BobusDay-Assets__9
+  - first:
+      213: 4260269586933892906
+    second: Cars_BobusDay-Assets__10
+  - first:
+      213: -6822223397595532409
+    second: Cars_BobusDay-Assets__11
+  - first:
+      213: 4645783707105541629
+    second: Cars_BobusDay-Assets__12
+  - first:
+      213: 3792483004084324040
+    second: Cars_BobusDay-Assets__13
+  - first:
+      213: 2691330459324632618
+    second: Cars_BobusDay-Assets__14
+  - first:
+      213: 1467641286131830947
+    second: Cars_BobusDay-Assets__15
+  - first:
+      213: -6933745555073626609
+    second: Cars_BobusDay-Assets__16
+  - first:
+      213: 8940094185889928826
+    second: Cars_BobusDay-Assets__17
+  - first:
+      213: 5194852208323039822
+    second: Cars_BobusDay-Assets__18
+  - first:
+      213: -1691877435948877849
+    second: Cars_BobusDay-Assets__19
+  - first:
+      213: -3082433196730710075
+    second: Cars_BobusDay-Assets__20
+  - first:
+      213: 5454135105920173503
+    second: Cars_BobusDay-Assets__21
+  - first:
+      213: 2801723432909101772
+    second: Cars_BobusDay-Assets__22
+  - first:
+      213: -6112078436508042611
+    second: Cars_BobusDay-Assets__23
+  - first:
+      213: 6225899664981658365
+    second: Cars_BobusDay-Assets__24
+  - first:
+      213: 5613114023155558878
+    second: Cars_BobusDay-Assets__25
+  - first:
+      213: 4724158946561535107
+    second: Cars_BobusDay-Assets__26
+  - first:
+      213: -8737389536264394669
+    second: Cars_BobusDay-Assets__27
+  - first:
+      213: -4493013057406554585
+    second: Cars_BobusDay-Assets__28
+  - first:
+      213: 8029499132829855678
+    second: Cars_BobusDay-Assets__29
+  - first:
+      213: -7276591543281686170
+    second: Cars_BobusDay-Assets__30
+  - first:
+      213: 1270136791325654308
+    second: Cars_BobusDay-Assets__31
+  - first:
+      213: -3744404774175066094
+    second: Cars_BobusDay-Assets__32
+  - first:
+      213: -3712250375009229709
+    second: Cars_BobusDay-Assets__33
+  - first:
+      213: -2383764869871670628
+    second: Cars_BobusDay-Assets__34
+  - first:
+      213: 4233842046576390282
+    second: Cars_BobusDay-Assets__35
+  - first:
+      213: 7999367669201986088
+    second: Cars_BobusDay-Assets__36
+  - first:
+      213: 543629635632176094
+    second: Cars_BobusDay-Assets__37
+  - first:
+      213: 6859365091487391845
+    second: Cars_BobusDay-Assets__38
+  - first:
+      213: 4406334855693196084
+    second: Cars_BobusDay-Assets__39
+  - first:
+      213: -386852547923748977
+    second: Cars_BobusDay-Assets__40
+  - first:
+      213: -1985831509062201311
+    second: Cars_BobusDay-Assets__41
+  - first:
+      213: -1617882127069551826
+    second: Cars_BobusDay-Assets__42
+  - first:
+      213: 8575254808837107104
+    second: Cars_BobusDay-Assets__43
+  - first:
+      213: -8630638481551548077
+    second: Cars_BobusDay-Assets__44
+  - first:
+      213: -8008339220882914789
+    second: Cars_BobusDay-Assets__45
+  - first:
+      213: 9283436352671346
+    second: Cars_BobusDay-Assets__46
+  - first:
+      213: 4487287853013466882
+    second: Cars_BobusDay-Assets__47
+  - first:
+      213: -1857247288923581670
+    second: Cars_BobusDay-Assets__48
+  - first:
+      213: 2774119459357119356
+    second: Cars_BobusDay-Assets__49
+  - first:
+      213: 7480767792517767810
+    second: Cars_BobusDay-Assets__50
+  - first:
+      213: -2834796220724961736
+    second: Cars_BobusDay-Assets__51
+  - first:
+      213: 2454222877116518026
+    second: Cars_BobusDay-Assets__52
+  - first:
+      213: -7720883339533505251
+    second: Cars_BobusDay-Assets__53
+  - first:
+      213: -7583717396037036550
+    second: Cars_BobusDay-Assets__54
+  - first:
+      213: -4939104818265084099
+    second: Cars_BobusDay-Assets__55
+  - first:
+      213: 8397871771137032018
+    second: Cars_BobusDay-Assets__56
+  - first:
+      213: -4711091658597150884
+    second: Cars_BobusDay-Assets__57
+  - first:
+      213: 4654298720131103738
+    second: Cars_BobusDay-Assets__58
+  - first:
+      213: -2287778989385848113
+    second: Cars_BobusDay-Assets__59
+  - first:
+      213: 4452072275000946316
+    second: Cars_BobusDay-Assets__60
+  - first:
+      213: 6071242211276358541
+    second: Cars_BobusDay-Assets__61
+  - first:
+      213: -6316792079310616213
+    second: Cars_BobusDay-Assets__62
+  - first:
+      213: 8256188341280480407
+    second: Cars_BobusDay-Assets__63
+  - first:
+      213: 6475960504436151680
+    second: Cars_BobusDay-Assets__64
+  - first:
+      213: 1582540019264725149
+    second: Cars_BobusDay-Assets__65
+  - first:
+      213: -2484895961161540585
+    second: Cars_BobusDay-Assets__66
+  - first:
+      213: -7093930575218615894
+    second: Cars_BobusDay-Assets__67
+  - first:
+      213: 1663694445967157618
+    second: Cars_BobusDay-Assets__68
+  - first:
+      213: 8495826749800490098
+    second: Cars_BobusDay-Assets__69
+  - first:
+      213: -8814288435087659985
+    second: Cars_BobusDay-Assets__70
+  - first:
+      213: -3375975222942597139
+    second: Cars_BobusDay-Assets__71
+  - first:
+      213: -5499901448983934563
+    second: Cars_BobusDay-Assets__72
+  - first:
+      213: 4874199438753792526
+    second: Cars_BobusDay-Assets__73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 3.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 264
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5406743894cdef970800000000000000
+      internalID: 8790705730967003205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 264
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5941840145ddd0010800000000000000
+      internalID: 1156824032424236181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 264
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c649c45edd4ccd8e0800000000000000
+      internalID: -1667241304720108436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 264
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5283e0cb147ab8540800000000000000
+      internalID: 5011282911149570085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 264
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d7d728bf2199160800000000000000
+      internalID: 7032673164551093660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 264
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd1f68517fdb9b0800000000000000
+      internalID: -5062618734264198069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 264
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5e9b00c44ffd9a0800000000000000
+      internalID: -6205973154226379340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 264
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a331d1c8c88fa37e0800000000000000
+      internalID: -1784841019769154758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 264
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1ecf0554ca18b20800000000000000
+      internalID: 3134976229338046935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f20c8a348bb36900800000000000000
+      internalID: 676590545628037876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2748901e948f1b30800000000000000
+      internalID: 4260269586933892906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783b5ff27f79251a0800000000000000
+      internalID: -6822223397595532409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 232
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdb25dcaa3297040800000000000000
+      internalID: 4645783707105541629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 232
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c60723e23b91a430800000000000000
+      internalID: 3792483004084324040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 232
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ecb312bc6895520800000000000000
+      internalID: 2691330459324632618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 232
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0d59d49fb1e5410800000000000000
+      internalID: 1467641286131830947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 232
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e84ea772366cf90800000000000000
+      internalID: -6933745555073626609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 232
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a761180ab48911c70800000000000000
+      internalID: 8940094185889928826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 200
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e429fb95f82d71840800000000000000
+      internalID: 5194852208323039822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 200
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7b4ca9f6e3588e0800000000000000
+      internalID: -1691877435948877849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 200
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c78ef8c65ff835d0800000000000000
+      internalID: -3082433196730710075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 200
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb50c594bfaf0bb40800000000000000
+      internalID: 5454135105920173503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 200
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca5f693e98b1e620800000000000000
+      internalID: 2801723432909101772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 200
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8afc909b098d2ba0800000000000000
+      internalID: -6112078436508042611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 200
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa847252c6d66650800000000000000
+      internalID: 6225899664981658365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 200
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed963f9e679c5ed40800000000000000
+      internalID: 5613114023155558878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 200
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ca84048859f8140800000000000000
+      internalID: 4724158946561535107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 168
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358eeba628e8eb680800000000000000
+      internalID: -8737389536264394669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 168
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e2716ed6c95a1c0800000000000000
+      internalID: -4493013057406554585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 168
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf61a05be28e6f60800000000000000
+      internalID: 8029499132829855678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669651f5b8a540b90800000000000000
+      internalID: -7276591543281686170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 168
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dbe17aeae60a110800000000000000
+      internalID: 1270136791325654308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 168
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218b40452b3390cc0800000000000000
+      internalID: -3744404774175066094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 168
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374a348c3ff6b7cc0800000000000000
+      internalID: -3712250375009229709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__34
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 168
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a6e370b7a2beed0800000000000000
+      internalID: -2383764869871670628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__35
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 168
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a807c45d8e0a1ca30800000000000000
+      internalID: 4233842046576390282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 136
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822678e3386730f60800000000000000
+      internalID: 7999367669201986088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 136
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb1b39f54c5b8700800000000000000
+      internalID: 543629635632176094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 136
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56022de453c513f50800000000000000
+      internalID: 6859365091487391845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 136
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bd30b9432762d30800000000000000
+      internalID: 4406334855693196084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 136
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87dc8448af91aaf0800000000000000
+      internalID: -386852547923748977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 136
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120d19e83c8e074e0800000000000000
+      internalID: -1985831509062201311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 136
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23e09ff6c02c89e0800000000000000
+      internalID: -1617882127069551826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 136
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad2233a0dc610770800000000000000
+      internalID: 8575254808837107104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 136
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351ad423700d93880800000000000000
+      internalID: -8630638481551548077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12027a98e9acd090800000000000000
+      internalID: -8008339220882914789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 104
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e88167c3bf02000800000000000000
+      internalID: 9283436352671346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 104
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ffac3178c064e30800000000000000
+      internalID: 4487287853013466882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1317ab4e6bb936e0800000000000000
+      internalID: -1857247288923581670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 103
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73da7b43f6af7620800000000000000
+      internalID: 2774119459357119356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 103
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28264382ca601d760800000000000000
+      internalID: 7480767792517767810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 103
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e911d4bd7c8a8d0800000000000000
+      internalID: -2834796220724961736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__52
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 103
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eca2624b62f0220800000000000000
+      internalID: 2454222877116518026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__53
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 103
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dafda7289e9d490800000000000000
+      internalID: -7720883339533505251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af51344653931c690800000000000000
+      internalID: -7583717396037036550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fa3e61656c47bb0800000000000000
+      internalID: -4939104818265084099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 71
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f37ebc1eb3b8470800000000000000
+      internalID: 8397871771137032018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 71
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fc201d817de9eb0800000000000000
+      internalID: -4711091658597150884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 71
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb38f3c604679040800000000000000
+      internalID: 4654298720131103738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__59
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 71
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaed0d512d2040e0800000000000000
+      internalID: -2287778989385848113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__60
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 71
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eebc16520f8cd30800000000000000
+      internalID: 4452072275000946316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 71
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d830c74df92614450800000000000000
+      internalID: 6071242211276358541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__62
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 71
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6980b8521f3658a0800000000000000
+      internalID: -6316792079310616213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c9eb0ad8fd39270800000000000000
+      internalID: 8256188341280480407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__64
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085506684cb3fd950800000000000000
+      internalID: 6475960504436151680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__65
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d902d1b43cf46f510800000000000000
+      internalID: 1582540019264725149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cd923f940e38dd0800000000000000
+      internalID: -2484895961161540585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9dfc22abb4d8d90800000000000000
+      internalID: -7093930575218615894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__68
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 39
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279a9a2b841a61710800000000000000
+      internalID: 1663694445967157618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__69
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 39
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274ae178a6d37e570800000000000000
+      internalID: 8495826749800490098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__70
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 39
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c24ce4e5b5da580800000000000000
+      internalID: -8814288435087659985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__71
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 39
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def7cf1eb602621d0800000000000000
+      internalID: -3375975222942597139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__72
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9908a995cc6ca3b0800000000000000
+      internalID: -5499901448983934563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cars_BobusDay-Assets__73
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02045f9092a4a340800000000000000
+      internalID: 4874199438753792526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
