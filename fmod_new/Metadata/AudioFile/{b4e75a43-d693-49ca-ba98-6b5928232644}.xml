@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b4e75a43-d693-49ca-ba98-6b5928232644}">
+		<property name="assetPath">
+			<value>Music/Boss/Version-01/Music_Boss_fight-005.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>15.576458333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{864f6ead-b113-43a8-bf91-8c88197eb129}</destination>
+		</relationship>
+	</object>
+</objects>

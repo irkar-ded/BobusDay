@@ -1,0 +1,31 @@
+Playback::frame, 0
+Playback::version, 2, 131588
+#
+# FMOD v2.02.04 command capture
+#   System::setSoftwareChannels(numsoftwarechannels: 64)
+#   System::setDSPBufferSize(bufferlength: 1024, numbuffers: 4)
+#   System::setSoftwareFormat(samplerate: 48000, speakermode: 3, numrawspeakers: 2)
+#   System::setAdvancedSettings(settings: {maxMPEGCodecs: 0, maxADPCMCodecs: 0, maxXMACodecs: 0, maxVorbisCodecs: 0, maxAT9Codecs: 0, maxFADPCMCodecs: 0, maxPCMCodecs: 0, maxOpusCodecs: 0
+#       ASIONumChannels: 0, vol0virtualvol: -1, defaultDecodeBufferSize: 400, geometryMaxFadeTime: 0,
+#       distanceFilterCenterFreq: 1500, reverb3Dinstance: 0, DSPBufferPoolSize: 8, resamplerMethod: 2, randomSeed: 0})
+#   Studio::System::setAdvancedSettings(settings: {commandqueuesize: 32768, handleinitialsize: 65536, studioupdateperiod: 20, idlesampledatapoolsize: 262144})
+#   Studio::System::initialize(maxchannels: 1024, studioflags: 0x00000024, flags: 0x00520000)
+#
+Playback::frame, 0
+# Printing initial instance state
+Bank::getEventListItem, 0, 0, {4d501106-dc0d-4877-9324-0657760d8231}, 2101312
+Bank::getEventListItem, 0, 1, {2cae3830-e051-493a-a68c-248161ec7abd}, 2099776
+Bank::getEventListItem, 0, 2, {a267a94f-da18-4862-bc67-a09d9a0e3bfb}, 2102336
+Bank::getEventListItem, 0, 3, {a1a0056e-7f6b-49c0-8599-b84679598498}, 2100032
+Bank::getEventListItem, 0, 4, {f3893c71-d11e-4c68-b2d2-638955d62dbc}, 2100800
+Bank::getEventListItem, 0, 5, {74a1cb74-250d-448e-b245-438ef14b94ae}, 2101568
+Bank::getEventListItem, 0, 6, {f86257ad-d289-44a4-9ef7-6766ecf28adb}, 2101824
+Bank::getEventListItem, 0, 7, {dfb9a9b1-69b9-436e-acb0-5cb237841f5b}, 2100544
+Bank::getEventListItem, 0, 8, {1a2bedbb-fafa-4f44-b600-edb6b81fc585}, 2118208
+Bank::getEventListItem, 0, 9, {e09f06ef-9ed4-4784-823f-e1ba06021593}, 2101056
+Bank::getBusListItem, 0, 0, {adfddb44-ab9b-42d5-bc9c-bbecf970fa09}, 2100288
+System::setListenerAttributes, 0, {{0,0,0},{0,0,0},{0,0,1},{0,1,0}}, {0,0,0}, true
+# Finished printing initial instance state
+Playback::frame, 1024
+Manager::directLoadBankMemory
+Playback::frame, 48128

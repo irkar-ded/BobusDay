@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{817591c5-268a-4033-a9b8-8bbca9288b39}">
+		<property name="assetPath">
+			<value>Character/Weapons/jetpack/DSGNSynth_SHOT Micro Shot Burst_B00M_CWCK.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.14672916666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{864f6ead-b113-43a8-bf91-8c88197eb129}</destination>
+		</relationship>
+	</object>
+</objects>

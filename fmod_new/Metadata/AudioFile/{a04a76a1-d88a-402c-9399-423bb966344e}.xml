@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a04a76a1-d88a-402c-9399-423bb966344e}">
+		<property name="assetPath">
+			<value>Character/Locomotion/Jump/jump_PC-011.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.44723356009070298</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{864f6ead-b113-43a8-bf91-8c88197eb129}</destination>
+		</relationship>
+	</object>
+</objects>

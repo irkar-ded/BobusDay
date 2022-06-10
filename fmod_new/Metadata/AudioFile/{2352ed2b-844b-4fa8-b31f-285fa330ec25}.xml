@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2352ed2b-844b-4fa8-b31f-285fa330ec25}">
+		<property name="assetPath">
+			<value>Character/Weapons/Hook-kat/Hook-cat_ItemPC-001.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.96766666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{864f6ead-b113-43a8-bf91-8c88197eb129}</destination>
+		</relationship>
+	</object>
+</objects>
