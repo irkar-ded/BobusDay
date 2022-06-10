@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2022-06-03T21:33:52.664+03:00
+  initializedAtString: 2022-06-03T21:33:52.655+03:00
+  localBranches:
+  - name: LVL-Desingers
+    tracking: origin/LVL-Desingers
+  - name: master
+    tracking: origin/master
+  - name: Programmer
+    tracking: origin/Programmer
+  - name: SoundDesign01
+    tracking: origin/SoundDesign01
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/irkar-ded/Bobus-Day
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - LVL-Desingers
+    - master
+    - Programmer
+    - SoundDesign01
+    values:
+    - name: LVL-Desingers
+      remote:
+        name: origin
+        url: https://github.com/irkar-ded/Bobus-Day
+      trackingBranch: LVL-Desingers
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/irkar-ded/Bobus-Day
+      trackingBranch: master
+    - name: Programmer
+      remote:
+        name: origin
+        url: https://github.com/irkar-ded/Bobus-Day
+      trackingBranch: Programmer
+    - name: SoundDesign01
+      remote:
+        name: origin
+        url: https://github.com/irkar-ded/Bobus-Day
+      trackingBranch: SoundDesign01
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+      - master
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/irkar-ded/Bobus-Day
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/irkar-ded/Bobus-Day
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/irkar-ded/Bobus-Day
