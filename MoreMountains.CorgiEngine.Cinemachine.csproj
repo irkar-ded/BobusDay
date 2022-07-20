@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CB648EBC-67F3-F338-1B32-0A05B155764B}</ProjectGuid>
+    <ProjectGuid>{5B85E09E-D2C9-E481-3078-44C768FB6C6E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>MoreMountains.CorgiEngine.Cinemachine</AssemblyName>
@@ -649,23 +649,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="MoreMountains.Tools.csproj">
-      <Project>{A3E13F32-9791-4C19-872F-B5B421B1CB0C}</Project>
+      <Project>{3D6AC954-D331-63BB-B77A-CBABA1F06369}</Project>
       <Name>MoreMountains.Tools</Name>
     </ProjectReference>
     <ProjectReference Include="MoreMountains.CorgiEngine.csproj">
-      <Project>{D673AAE6-F92E-3FE8-C980-4CD45A360A3E}</Project>
+      <Project>{323A9A74-EFBD-BF8F-EA05-5E563DB6554C}</Project>
       <Name>MoreMountains.CorgiEngine</Name>
     </ProjectReference>
     <ProjectReference Include="MoreMountains.Feedbacks.csproj">
-      <Project>{B4CE028E-EC8A-EF95-BCB1-8BC7B88D300E}</Project>
+      <Project>{76839BEE-CB2F-C1B9-E2E1-CBC1BADDD0FB}</Project>
       <Name>MoreMountains.Feedbacks</Name>
     </ProjectReference>
     <ProjectReference Include="MoreMountains.Feedbacks.Cinemachine.csproj">
-      <Project>{A7E7E602-C1A1-C922-1360-236216799D68}</Project>
+      <Project>{7352513D-B244-1AC7-3287-B216EC9F145C}</Project>
       <Name>MoreMountains.Feedbacks.Cinemachine</Name>
     </ProjectReference>
     <ProjectReference Include="MoreMountains.Tools.Cinemachine.csproj">
-      <Project>{658CDB73-1D9F-D4DD-ABF5-C48EF7F74F89}</Project>
+      <Project>{3A688980-5AF8-B777-9537-C82BCDE6BD5B}</Project>
       <Name>MoreMountains.Tools.Cinemachine</Name>
     </ProjectReference>
   </ItemGroup>

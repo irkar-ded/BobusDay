@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{658CDB73-1D9F-D4DD-ABF5-C48EF7F74F89}</ProjectGuid>
+    <ProjectGuid>{3A688980-5AF8-B777-9537-C82BCDE6BD5B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>MoreMountains.Tools.Cinemachine</AssemblyName>
@@ -646,7 +646,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="MoreMountains.Tools.csproj">
-      <Project>{A3E13F32-9791-4C19-872F-B5B421B1CB0C}</Project>
+      <Project>{3D6AC954-D331-63BB-B77A-CBABA1F06369}</Project>
       <Name>MoreMountains.Tools</Name>
     </ProjectReference>
   </ItemGroup>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{066B667D-2BC8-04B0-BC16-22BE26B3FD0D}</ProjectGuid>
+    <ProjectGuid>{C65C2942-0035-1E0B-9B1A-8A3B73DA49B4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>MoreMountains.Tools.TextMeshPro</AssemblyName>
@@ -644,7 +644,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="MoreMountains.Tools.csproj">
-      <Project>{A3E13F32-9791-4C19-872F-B5B421B1CB0C}</Project>
+      <Project>{3D6AC954-D331-63BB-B77A-CBABA1F06369}</Project>
       <Name>MoreMountains.Tools</Name>
     </ProjectReference>
   </ItemGroup>

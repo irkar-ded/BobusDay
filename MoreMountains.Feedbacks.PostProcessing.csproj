@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C5FFAA4D-F7C0-D1D6-D6E2-423C4173A902}</ProjectGuid>
+    <ProjectGuid>{1CD7B718-6FF3-0FE5-EBDD-B203BD727D90}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>MoreMountains.Feedbacks.PostProcessing</AssemblyName>
@@ -659,7 +659,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="MoreMountains.Feedbacks.csproj">
-      <Project>{B4CE028E-EC8A-EF95-BCB1-8BC7B88D300E}</Project>
+      <Project>{76839BEE-CB2F-C1B9-E2E1-CBC1BADDD0FB}</Project>
       <Name>MoreMountains.Feedbacks</Name>
     </ProjectReference>
   </ItemGroup>

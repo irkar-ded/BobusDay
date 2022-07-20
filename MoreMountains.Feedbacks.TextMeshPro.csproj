@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1792AFBC-6CA0-4F1C-988C-C17C49C078EC}</ProjectGuid>
+    <ProjectGuid>{CB49E6E3-8E4D-0D6B-6A9A-C410FAC56A33}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>MoreMountains.Feedbacks.TextMeshPro</AssemblyName>
@@ -656,15 +656,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="MoreMountains.Feedbacks.csproj">
-      <Project>{B4CE028E-EC8A-EF95-BCB1-8BC7B88D300E}</Project>
+      <Project>{76839BEE-CB2F-C1B9-E2E1-CBC1BADDD0FB}</Project>
       <Name>MoreMountains.Feedbacks</Name>
     </ProjectReference>
     <ProjectReference Include="MoreMountains.Tools.csproj">
-      <Project>{A3E13F32-9791-4C19-872F-B5B421B1CB0C}</Project>
+      <Project>{3D6AC954-D331-63BB-B77A-CBABA1F06369}</Project>
       <Name>MoreMountains.Tools</Name>
     </ProjectReference>
     <ProjectReference Include="MoreMountains.Feedbacks.MMTools.csproj">
-      <Project>{A6A0B688-66EC-E814-FE4D-B0B31644C53B}</Project>
+      <Project>{66CA2D7A-1022-7219-28DD-4AC0EE8D92C8}</Project>
       <Name>MoreMountains.Feedbacks.MMTools</Name>
     </ProjectReference>
   </ItemGroup>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{23AA3C3D-152E-09F1-4DBB-82329618EF9A}</ProjectGuid>
+    <ProjectGuid>{5D0A05B9-7D5C-D8FB-DC36-7D2715A10DB2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>MoreMountains.InventoryEngine.Demos</AssemblyName>
@@ -648,11 +648,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="MoreMountains.InventoryEngine.csproj">
-      <Project>{FF43F522-CF38-F989-2006-C3AF62F83F44}</Project>
+      <Project>{DFFC8198-1334-5037-A48F-22837C7D517F}</Project>
       <Name>MoreMountains.InventoryEngine</Name>
     </ProjectReference>
     <ProjectReference Include="MoreMountains.Tools.csproj">
-      <Project>{A3E13F32-9791-4C19-872F-B5B421B1CB0C}</Project>
+      <Project>{3D6AC954-D331-63BB-B77A-CBABA1F06369}</Project>
       <Name>MoreMountains.Tools</Name>
     </ProjectReference>
   </ItemGroup>
